@@ -1,0 +1,13 @@
+18:05:01.957 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+18:05:02.151 [main] INFO  testCases.TC_005_VerifyingFifthNews - Clicking on News
+18:05:18.092 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+18:05:18.092 [main] INFO  testCases.TC_005_VerifyingFifthNews - Clicking on Share Button
+18:05:18.549 [main] INFO  testCases.TC_005_VerifyingFifthNews - Printing the Info To Console
+18:05:18.630 [main] INFO  testCases.TC_005_VerifyingFifthNews - Finishing the Test Case
+18:05:18.632 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+18:05:23.674 [main] INFO  testCases.TC_005_VerifyingFifthNews - Validating the Views & Likes
+18:05:33.743 [main] INFO  testCases.TC_005_VerifyingFifthNews - Finishing the Test Case
+18:05:33.745 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+18:05:33.810 [main] INFO  testCases.TC_005_VerifyingFifthNews - Validating the Links
+18:05:33.851 [main] INFO  testCases.TC_005_VerifyingFifthNews - Finishing the Test Case
+18:05:33.852 [main] INFO  testCases.TC_005_VerifyingFifthNews - Closing the Browser

@@ -1,0 +1,56 @@
+12:00:26.077 [main] INFO  testCases.TC_001_VerifyingFirstNews - Printing the Info to Console
+12:00:26.085 [main] INFO  testCases.TC_001_VerifyingFirstNews - Finishing the Test Case
+12:00:26.090 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+12:00:26.090 [main] INFO  testCases.TC_001_VerifyingFirstNews - Validating the News Displayed
+12:00:26.124 [main] INFO  testCases.TC_001_VerifyingFirstNews - Finishing the Test Case
+12:00:26.126 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+12:00:26.695 [main] INFO  testCases.TC_001_VerifyingFirstNews - Validating the TipTop Displayed
+12:00:26.696 [main] INFO  testCases.TC_001_VerifyingFirstNews - Finishing the Test Case
+12:00:26.700 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+12:00:26.701 [main] INFO  testCases.TC_001_VerifyingFirstNews - Clicking on News
+12:00:28.217 [main] INFO  testCases.TC_001_VerifyingFirstNews - Printing the Info to Console
+12:00:28.241 [main] INFO  testCases.TC_001_VerifyingFirstNews - Printing the Info to Console
+12:00:28.277 [main] INFO  testCases.TC_001_VerifyingFirstNews - Printing the Info to Console
+12:00:28.277 [main] INFO  testCases.TC_001_VerifyingFirstNews - Finishing the Test Case
+12:00:28.280 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+12:00:28.464 [main] INFO  testCases.TC_001_VerifyingFirstNews - Clicking on Associate Info Icon
+12:00:38.927 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+12:00:38.927 [main] INFO  testCases.TC_001_VerifyingFirstNews - Clicking on Share Button
+12:00:39.062 [main] INFO  testCases.TC_001_VerifyingFirstNews - Printing the Info to Console
+12:00:39.124 [main] INFO  testCases.TC_001_VerifyingFirstNews - Finishing the Test Case
+12:00:39.127 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+12:00:42.162 [main] INFO  testCases.TC_001_VerifyingFirstNews - Validating the Views & Likes
+12:00:42.162 [main] INFO  testCases.TC_001_VerifyingFirstNews - Printing the Info to Console
+12:00:42.251 [main] INFO  testCases.TC_001_VerifyingFirstNews - Finishing the Test Case
+12:00:42.252 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+12:00:42.262 [main] INFO  testCases.TC_001_VerifyingFirstNews - Validating the Links
+11:34:42.890 [main] INFO  testCases.TC_001_VerifyingFirstNews - Launching the Browser
+11:35:13.659 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+11:35:21.667 [main] INFO  testCases.TC_001_VerifyingFirstNews - Clicking on User Info Icon
+11:40:44.935 [main] INFO  testCases.TC_001_VerifyingFirstNews - Launching the Browser
+14:13:00.766 [main] INFO  testCases.TC_001_VerifyingFirstNews - Launching the Browser
+14:13:10.443 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+14:13:18.460 [main] INFO  testCases.TC_001_VerifyingFirstNews - Clicking on User Info Icon
+14:13:19.402 [main] INFO  testCases.TC_001_VerifyingFirstNews - Printing the Info to Console
+14:13:19.403 [main] INFO  testCases.TC_001_VerifyingFirstNews - Finishing the Test Case
+14:13:19.409 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+14:13:19.409 [main] INFO  testCases.TC_001_VerifyingFirstNews - Validating the News Displayed
+14:13:19.445 [main] INFO  testCases.TC_001_VerifyingFirstNews - Finishing the Test Case
+14:13:19.447 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+14:13:20.010 [main] INFO  testCases.TC_001_VerifyingFirstNews - Validating the TipTop Displayed
+14:13:20.010 [main] INFO  testCases.TC_001_VerifyingFirstNews - Finishing the Test Case
+14:13:20.012 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+14:13:20.012 [main] INFO  testCases.TC_001_VerifyingFirstNews - Clicking on News
+14:13:21.380 [main] INFO  testCases.TC_001_VerifyingFirstNews - Printing the Info to Console
+14:13:31.589 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+14:13:31.729 [main] INFO  testCases.TC_001_VerifyingFirstNews - Clicking on Associate Info Icon
+14:13:41.935 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+14:13:41.935 [main] INFO  testCases.TC_001_VerifyingFirstNews - Clicking on Share Button
+14:13:42.057 [main] INFO  testCases.TC_001_VerifyingFirstNews - Printing the Info to Console
+14:13:42.104 [main] INFO  testCases.TC_001_VerifyingFirstNews - Finishing the Test Case
+14:13:42.105 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+14:13:45.131 [main] INFO  testCases.TC_001_VerifyingFirstNews - Validating the Views & Likes
+14:13:45.131 [main] INFO  testCases.TC_001_VerifyingFirstNews - Printing the Info to Console
+14:13:45.232 [main] INFO  testCases.TC_001_VerifyingFirstNews - Finishing the Test Case
+14:13:45.234 [main] INFO  testCases.TC_001_VerifyingFirstNews - Starting the Test Case
+14:13:45.246 [main] INFO  testCases.TC_001_VerifyingFirstNews - Validating the Links

@@ -1,0 +1,54 @@
+18:03:26.007 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+18:03:26.017 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+18:03:26.019 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+18:03:26.019 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+18:03:26.020 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+18:03:26.021 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+18:03:26.024 [main] INFO  testCases.TC_003_VerifyingThirdNews - Closing the Browser
+18:03:31.262 [main] INFO  testCases.TC_004_VerifyingFourthNews - Launching the Browser
+18:03:41.505 [main] INFO  testCases.TC_004_VerifyingFourthNews - Starting the Test Case
+18:03:49.517 [main] INFO  testCases.TC_004_VerifyingFourthNews - Clicking User Info Icon
+18:03:50.864 [main] INFO  testCases.TC_004_VerifyingFourthNews - Starting the Test Case
+18:03:50.865 [main] INFO  testCases.TC_004_VerifyingFourthNews - Validating the News
+18:03:50.950 [main] INFO  testCases.TC_004_VerifyingFourthNews - Finishing the Test Case
+18:03:50.953 [main] INFO  testCases.TC_004_VerifyingFourthNews - Starting the Test Case
+18:03:51.538 [main] INFO  testCases.TC_004_VerifyingFourthNews - Validating the TipTop
+18:03:51.538 [main] INFO  testCases.TC_004_VerifyingFourthNews - Finishing the Test Case
+18:03:51.540 [main] INFO  testCases.TC_004_VerifyingFourthNews - Starting the Test Case
+18:03:51.732 [main] INFO  testCases.TC_004_VerifyingFourthNews - Clicking on News
+18:03:54.453 [main] INFO  testCases.TC_004_VerifyingFourthNews - Printing the Info To Console
+18:04:04.693 [main] INFO  testCases.TC_004_VerifyingFourthNews - Starting the Test Case
+18:04:04.895 [main] INFO  testCases.TC_004_VerifyingFourthNews - Clicking on Associate Info Icon
+18:04:15.190 [main] INFO  testCases.TC_004_VerifyingFourthNews - Starting the Test Case
+18:04:15.190 [main] INFO  testCases.TC_004_VerifyingFourthNews - Clicking on Share Button
+18:04:15.406 [main] INFO  testCases.TC_004_VerifyingFourthNews - Printing the Info To Console
+18:04:15.489 [main] INFO  testCases.TC_004_VerifyingFourthNews - Finishing the Test Case
+18:04:15.491 [main] INFO  testCases.TC_004_VerifyingFourthNews - Starting the Test Case
+18:04:20.547 [main] INFO  testCases.TC_004_VerifyingFourthNews - Validating the Views & Likes
+18:04:20.755 [main] INFO  testCases.TC_004_VerifyingFourthNews - Finishing the Test Case
+18:04:20.758 [main] INFO  testCases.TC_004_VerifyingFourthNews - Starting the Test Case
+18:04:20.795 [main] INFO  testCases.TC_004_VerifyingFourthNews - Validating the Links
+18:04:33.479 [main] INFO  testCases.TC_004_VerifyingFourthNews - Finishing the Test Case
+18:04:33.497 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:33.499 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:04:33.553 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+18:04:33.556 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+18:04:33.558 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+18:04:33.559 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+18:04:33.560 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+18:04:33.561 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+18:04:33.562 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+18:04:33.562 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+18:04:33.566 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+18:04:33.569 [main] INFO  testCases.TC_004_VerifyingFourthNews - Closing the Browser
+18:04:38.938 [main] INFO  testCases.TC_005_VerifyingFifthNews - Launching the Browser
+18:04:52.068 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+18:05:00.072 [main] INFO  testCases.TC_005_VerifyingFifthNews - Clicking on USer Info Icon
+18:05:01.284 [main] INFO  testCases.TC_005_VerifyingFifthNews - Printing the Info To Console
+18:05:01.285 [main] INFO  testCases.TC_005_VerifyingFifthNews - Finishing the Test Case
+18:05:01.289 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+18:05:01.290 [main] INFO  testCases.TC_005_VerifyingFifthNews - Validating the News
+18:05:01.339 [main] INFO  testCases.TC_005_VerifyingFifthNews - Finishing the Test Case
+18:05:01.341 [main] INFO  testCases.TC_005_VerifyingFifthNews - Starting the Test Case
+18:05:01.955 [main] INFO  testCases.TC_005_VerifyingFifthNews - Validating the TipTop
+18:05:01.955 [main] INFO  testCases.TC_005_VerifyingFifthNews - Finishing the Test Case
